@@ -40,3 +40,8 @@ If you're interested in a particular topic, a good place to start is the [Tutori
 ## Contribute
 
 Have you come across resources that would help others prepare for the exams? Submit a pull request!
+
+
+#
+
+https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5
