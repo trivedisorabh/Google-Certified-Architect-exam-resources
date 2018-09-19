@@ -39,11 +39,11 @@ If you're interested in a particular topic, a good place to start is the [Tutori
 
 
 
-# https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5
+# Article
+https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5
 
 # Google official guide 
 https://cloud.google.com/certification/guides/cloud-architect/
---------------------------------------------------------------------------------------------------------
 # Google Cloud Next 2017 Playlist: 
 https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR
   
