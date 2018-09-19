@@ -1,3 +1,7 @@
+![Alt Text](https://qph.fs.quoracdn.net/main-qimg-212e7cba15b0cdeed9d62b0f2bc6c449)
+
+
+
 # Google Cloud Platform certification exam resources
 
 A collection of case studies, white papers, articles, books, and other resources to help prepare you for a Google Cloud Platform certification or two.
