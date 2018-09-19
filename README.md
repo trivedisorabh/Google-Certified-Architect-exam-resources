@@ -143,3 +143,15 @@ https://cloud.google.com/dataflow/faq
 https://cloud.google.com/pubsub/
 https://cloud.google.com/pubsub/docs/faq
 
+-----------------------------------------------------------------------------------------------
+
+
+# Github
+
+- https://github.com/vaquarkhan/gcp-fundamentals
+- https://github.com/vaquarkhan/data-engineering-gcp
+- https://github.com/vaquarkhan/google-data-engineering-coursera
+- https://github.com/vaquarkhan/notes-google-cloud-architect
+- https://github.com/vaquarkhan/notes-google-cloud-architect
+- https://github.com/vaquarkhan/GoogleCloudArchitectProfessional
+
