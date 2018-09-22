@@ -1,4 +1,4 @@
-* [have fun with them](https://cloudplatform.googleblog.com/2016/06/filtering-and-formatting-fun-with.html)
+* [Filtering and formatting fun with gcloud, GCP’s command line interface](https://cloudplatform.googleblog.com/2016/06/filtering-and-formatting-fun-with.html)
 * [projections](https://cloud.google.com/sdk/gcloud/reference/topic/projections)
 * [filters](https://cloud.google.com/sdk/gcloud/reference/topic/filters)
 * [resource-keys](https://cloud.google.com/sdk/gcloud/reference/topic/resource-keys)
