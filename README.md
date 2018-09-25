@@ -153,6 +153,22 @@ https://cloud.google.com/pubsub/docs/faq
 
 -----------------------------------------------------------------------------------------------
 
+
+## Last Minute Revision
+- [A GCP Flowchart a Day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
+- [Products](https://cloud.google.com/products/) #Ensure you atleast know about each product in brief. 
+- [Services Summary](https://cloud.google.com/terms/services)
+- [GCP Products & Services in 4 words or less](https://github.com/agasthik/GoogleCloudArchitectProfessional/blob/master/GCP-Products-Cheat-Sheet.md)
+
+
+## Cool Stuff
+- [Measure your latency to GCP regions using GCPing](www.gcping.com)
+- [Perfkit Benchmarker](http://googlecloudplatform.github.io/PerfKitBenchmarker/)
+- [Project Treehouse - GCP Solutions](http://gcp.solutions/)
+
+
+
+
 # Github
 
 - https://github.com/vaquarkhan/gcp-fundamentals
