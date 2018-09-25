@@ -154,6 +154,39 @@ https://cloud.google.com/pubsub/docs/faq
 -----------------------------------------------------------------------------------------------
 
 
+<ul>
+<li>Read the <a href="https://cloud.google.com/docs/overview/">doco</a>&nbsp;and FAQ for each product and make sure you understand what each product is used for and why you would choose one product over another (there are too make pages to list for these, but they are all available via the <a href="https://cloud.google.com/docs">Google Cloud docs</a> website). Make sure you understand these pages 100%.
+<ul>
+<li><a href="https://cloud.google.com/docs/choosing-a-compute-option">Computing</a></li>
+<li><a href="https://cloud.google.com/storage-options/">Storage</a></li>
+</ul>
+</li>
+<li>Read at least the below&nbsp;<a href="https://cloud.google.com/solutions/">Google Cloud solutions guides</a> and understand why they are designed this way.
+<ul>
+<li><a href="https://cloud.google.com/solutions/web-serving-overview">Serving Websites</a></li>
+<li><a href="https://cloud.google.com/storage/docs/hosting-static-website">Hosting a static website</a></li>
+<li><a href="https://cloud.google.com/solutions/scalable-and-resilient-apps">Building Scalable and Resilient Web Applications on Google Cloud Platform</a></li>
+<li><a href="https://cloud.google.com/solutions/pci-dss">Creating a PCI-DSS-Compliant Environment</a></li>
+<li><a href="https://cloud.google.com/solutions/jenkins-on-kubernetes-engine">Jenkins on Kubernetes Engine</a></li>
+</ul>
+</li>
+<li>Read at least these <a href="https://cloud.google.com/whitepapers/">Google whitepapers</a>&nbsp;and understand how the solutions are designed.
+<ul>
+<li><a href="https://cloud.google.com/security/whitepaper">Google Security Whitepaper</a></li>
+<li><a href="https://cloud.google.com/files/Lift-and-Shift-onto-Google-Cloud.pdf">How to Lift-and-Shift a Line of Business Application onto Google Cloud Platform</a></li>
+<li><a href="https://cloud.google.com/security/encryption-at-rest/default-encryption/">Encryption at Rest in Google Cloud Platform</a></li>
+<li><a href="https://cloud.google.com/bigtable/pdf/FISConsolidatedAuditTrail.pdf">Scaling to Build the Consolidated Audit Trail: A Financial Services Application of Google Cloud Bigtable</a></li>
+<li><a href="https://cloud.google.com/files/GCPDDoSprotection-04122016.pdf">Best Practices for DDoS Protection and Mitigation on Google Cloud Platform</a></li>
+</ul>
+</li>
+<li>Read the <a href="https://cloud.google.com/certification/guides/cloud-architect/#sample-case-study">case studies</a> for the exam and understand how you would design a solution for the client. Go through the process of what you would do in a migration. I would expect that 25% to 50% of questions will relate to the case studies.</li>
+</ul>
+
+
+
+
+
+
 ## Last Minute Revision
 - [A GCP Flowchart a Day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
 - [Products](https://cloud.google.com/products/) #Ensure you atleast know about each product in brief. 
