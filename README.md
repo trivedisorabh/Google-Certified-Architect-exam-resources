@@ -208,5 +208,5 @@ https://cloud.google.com/pubsub/docs/faq
 - https://github.com/vaquarkhan/data-engineering-gcp
 - https://github.com/vaquarkhan/google-data-engineering-coursera
 - https://github.com/vaquarkhan/notes-google-cloud-architect
-- https://github.com/vaquarkhan/notes-google-cloud-architect
+- https://github.com/vaquarkhan/training-data-analyst
 - https://github.com/vaquarkhan/GoogleCloudArchitectProfessional
