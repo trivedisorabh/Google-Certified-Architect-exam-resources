@@ -198,6 +198,16 @@ https://cloud.google.com/pubsub/docs/faq
 - [Measure your latency to GCP regions using GCPing](www.gcping.com)
 - [Perfkit Benchmarker](http://googlecloudplatform.github.io/PerfKitBenchmarker/)
 - [Project Treehouse - GCP Solutions](http://gcp.solutions/)
+- Google-provided tutorials: https://cloud.google.com/docs/tutorials
+- Community-provided tutorials: https://cloud.google.com/community/tutorials/
+- Find and read Google Cloud customer case studies here: https://cloud.google.com/certification/guides/cloud-architect/
+-Find the decision tree diagram and comparison chart here : https://cloud.google.com/storage-options/
+
+ 
+
+
+ 
+
 
 
 
