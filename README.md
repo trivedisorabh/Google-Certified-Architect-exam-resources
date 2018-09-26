@@ -220,3 +220,9 @@ https://cloud.google.com/pubsub/docs/faq
 - https://github.com/vaquarkhan/notes-google-cloud-architect
 - https://github.com/vaquarkhan/training-data-analyst
 - https://github.com/vaquarkhan/GoogleCloudArchitectProfessional
+
+-----------------------------------------------
+![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
+ 
+
+- https://cloud.google.com/certification/cloud-architect
