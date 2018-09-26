@@ -201,7 +201,7 @@ https://cloud.google.com/pubsub/docs/faq
 - Google-provided tutorials: https://cloud.google.com/docs/tutorials
 - Community-provided tutorials: https://cloud.google.com/community/tutorials/
 - Find and read Google Cloud customer case studies here: https://cloud.google.com/certification/guides/cloud-architect/
--Find the decision tree diagram and comparison chart here : https://cloud.google.com/storage-options/
+- Find the decision tree diagram and comparison chart here : https://cloud.google.com/storage-options/
 
  
 
