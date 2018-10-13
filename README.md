@@ -220,6 +220,7 @@ https://cloud.google.com/pubsub/docs/faq
 - https://github.com/vaquarkhan/notes-google-cloud-architect
 - https://github.com/vaquarkhan/training-data-analyst
 - https://github.com/vaquarkhan/GoogleCloudArchitectProfessional
+- https://gist.github.com/lewisrodgers/13809d8154e2a6e324eeb47751194f64
 
 -----------------------------------------------
 ![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
