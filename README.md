@@ -221,6 +221,7 @@ https://cloud.google.com/pubsub/docs/faq
 - https://github.com/vaquarkhan/training-data-analyst
 - https://github.com/vaquarkhan/GoogleCloudArchitectProfessional
 - https://gist.github.com/lewisrodgers/13809d8154e2a6e324eeb47751194f64
+- https://github.com/maxis42/Big-Data-Engineering-Coursera-Yandex
 
 -----------------------------------------------
 ![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
