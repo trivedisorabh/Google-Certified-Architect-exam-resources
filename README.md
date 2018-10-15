@@ -206,7 +206,8 @@ https://cloud.google.com/pubsub/docs/faq
  
 
 
- 
+ #AWS to GCP
+ -https://cloud.google.com/free/docs/map-aws-google-cloud-platform
 
 
 
