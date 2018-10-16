@@ -224,6 +224,8 @@ https://cloud.google.com/pubsub/docs/faq
 - https://gist.github.com/lewisrodgers/13809d8154e2a6e324eeb47751194f64
 - https://github.com/maxis42/Big-Data-Engineering-Coursera-Yandex
 
+# Case study 
+- https://www.youtube.com/watch?v=-DsInvmT4gs
 -----------------------------------------------
 ![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
  
