@@ -226,6 +226,26 @@ https://cloud.google.com/pubsub/docs/faq
 
 # Case study 
 - https://www.youtube.com/watch?v=-DsInvmT4gs
+
+# tips
+
+60 questions in 2 hours — This is plenty of time to complete the exam. I managed to finish with 45min left to review.
+
+- Use Exam Guide to read Google online documentations https://lnkd.in/gRKtBNN 
+- Understand 4 Sample Case Study, this is very important! 
+- Provide solutions to the case studies.
+- https://lnkd.in/ejAJsNk 
+- https://lnkd.in/gQQADiG
+- https://lnkd.in/gzbviHZ 
+- https://lnkd.in/ghGQ49x
+- https://lnkd.in/e5Wk4-z 
+- https://lnkd.in/gNgy_mM
+- https://lnkd.in/ezFwb2a 
+- http://gcp.solutions/
+- https://cloud.google.com/blog/products/gcp/choosing-the-right-compute-option-in-gcp-a-decision-tree
+- https://cloud.google.com/storage-options/
+
+
 -----------------------------------------------
 ![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
  
