@@ -244,7 +244,7 @@ https://cloud.google.com/pubsub/docs/faq
 - http://gcp.solutions/
 - https://cloud.google.com/blog/products/gcp/choosing-the-right-compute-option-in-gcp-a-decision-tree
 - https://cloud.google.com/storage-options/
-
+- https://cloud.google.com/storage-options/
 
 -----------------------------------------------
 ![Alt Text](https://englishhelponline.files.wordpress.com/2010/11/finally-scanner.jpg)
