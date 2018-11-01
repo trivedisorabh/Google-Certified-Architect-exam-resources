@@ -43,78 +43,80 @@ If you're interested in a particular topic, a good place to start is the [Tutori
 
 
 
-# Article
+## Article
 https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5
 
-# Google official guide 
+## Google official guide 
 https://cloud.google.com/certification/guides/cloud-architect/
-# Google Cloud Next 2017 Playlist: 
+## Google Cloud Next 2017 Playlist: 
 https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR
   
-# Overview
+## Overview
 https://cloud.google.com/docs/overview/
 https://cloud.google.com/docs/geography-and-regions
 https://cloud.google.com/docs/compare/aws/
-# Compute Engine
+## Compute Engine
 https://cloud.google.com/compute/docs/regions-zones/regions-zones
 https://cloud.google.com/compute/docs/faq
 https://cloud.google.com/docs/choosing-a-compute-option
 https://cloud.google.com/compute/docs/instances/preemptible
-# App Engine
+## App Engine
 https://cloud.google.com/appengine/kb/
 https://cloud.google.com/appengine/docs/the-appengine-environments
 https://cloud.google.com/appengine/docs/flexible/
 https://cloud.google.com/appengine/docs/standard/
 https://cloud.google.com/appengine/docs/glossary
-# Container Engine
+## Container Engine
 https://cloud.google.com/container-engine/
-# Storage Decisions
+## Storage Decisions
 https://cloud.google.com/docs/storing-your-data
-# Cloud Storage
+## Cloud Storage
 https://cloud.google.com/storage/docs/faq
 https://cloud.google.com/storage/docs/best-practices
-# Spanner
+## Spanner
 https://cloud.google.com/spanner/docs/overview
-# Cloud SQL
+## Cloud SQL
 https://cloud.google.com/sql/faq
 https://cloud.google.com/sql/docs/features
-# Bigtable
+## Bigtable
 https://cloud.google.com/bigtable/docs/overview
-# Datastore
+## Datastore
 https://cloud.google.com/datastore/docs/concepts/overview
 https://cloud.google.com/datastore/docs/best-practices
-# Transfer Service
+## Transfer Service
 https://cloud.google.com/storage/transfer/
-# Networking
+
+## Networking
 https://cloud.google.com/compute/docs/vpc/
 https://cloud.google.com/compute/docs/load-balancing-and-autoscaling
 https://cloud.google.com/compute/docs/vpc/firewalls
 https://cloud.google.com/compute/docs/vpn/overview
-# Stackdriver Logging
+
+## Stackdriver Logging
 https://cloud.google.com/logging/
 https://cloud.google.com/logging/docs/basic-concepts
 https://cloud.google.com/logging/docs/view/logs_index
-# Stackdriver Monitoring
+## Stackdriver Monitoring
 https://cloud.google.com/monitoring/
-# Stackdriver Error Reporting
+## Stackdriver Error Reporting
 https://cloud.google.com/error-reporting/
 https://cloud.google.com/error-reporting/reference/
-# Stackdriver Trace
+## Stackdriver Trace
 https://cloud.google.com/trace/
 https://cloud.google.com/trace/docs/faq
 https://cloud.google.com/trace/docs/reference/
-# Stackdriver Debugger
+## Stackdriver Debugger
 https://cloud.google.com/debugger/
 https://cloud.google.com/debugger/docs/before-you-begin
-# Endpoints
+## Endpoints
 https://cloud.google.com/endpoints/
 https://cloud.google.com/endpoints/docs/about-cloud-endpoints
 https://cloud.google.com/endpoints/docs/architecture-overview
-# Security Scanner
+## Security Scanner
 https://cloud.google.com/security-scanner/
 https://cloud.google.com/security-scanner/docs/using-the-scanner
 https://cloud.google.com/security-scanner/docs/faq
-# Identity and Security
+## Identity and Security
 https://cloud.google.com/security/
 https://cloud.google.com/compute/docs/access/
 https://cloud.google.com/docs/authentication/
@@ -126,24 +128,24 @@ https://cloud.google.com/iam/docs/faq
 Identity-Aware Proxy
 https://cloud.google.com/iap/docs/concepts-overview
 https://cloud.google.com/iap/docs/faq
-# KMS
+## KMS
 https://cloud.google.com/kms/docs/object-hierarchy
 https://cloud.google.com/kms/docs/secret-management
-# Developer Tools
+## Developer Tools
 https://cloud.google.com/tools/docs/
-# Resource Management
+## Resource Management
 https://cloud.google.com/launcher/docs/
 https://cloud.google.com/resource-manager/
-# Deployment Manager
+## Deployment Manager
 https://cloud.google.com/deployment-manager/docs/fundamentals
 https://cloud.google.com/deployment-manager/docs/best-practices/
-# DataProc
+## DataProc
 https://cloud.google.com/dataproc/
 https://cloud.google.com/dataproc/docs/resources/faq
-# DataFlow
+## DataFlow
 https://cloud.google.com/dataflow/
 https://cloud.google.com/dataflow/faq
-# Pub/Sub
+## Pub/Sub
 https://cloud.google.com/pubsub/
 https://cloud.google.com/pubsub/docs/faq
 
@@ -206,7 +208,7 @@ https://cloud.google.com/pubsub/docs/faq
  
 
 
- #AWS to GCP
+ ##AWS to GCP
  -https://cloud.google.com/free/docs/map-aws-google-cloud-platform
 
 
@@ -224,10 +226,10 @@ https://cloud.google.com/pubsub/docs/faq
 - https://gist.github.com/lewisrodgers/13809d8154e2a6e324eeb47751194f64
 - https://github.com/maxis42/Big-Data-Engineering-Coursera-Yandex
 
-# Case study 
+## Case study 
 - https://www.youtube.com/watch?v=-DsInvmT4gs
 
-# tips
+## tips
 
 60 questions in 2 hours — This is plenty of time to complete the exam. I managed to finish with 45min left to review.
 
