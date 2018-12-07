@@ -253,3 +253,12 @@ https://cloud.google.com/pubsub/docs/faq
  
 
 - https://cloud.google.com/certification/cloud-architect
+
+-----------------------------------------------
+
+##Cheetsheet:
+
+https://github.com/gregsramblings/google-cloud-4-words
+
+
+![Alt Text](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png)
